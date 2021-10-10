@@ -3,6 +3,11 @@ body{
   text-align:center;
   position:relative;
   font-family: 'Merriweather', serif;
+  background: url(https://www.popsci.com/app/uploads/2019/12/20/VC6OKOFVRZAN7GUN4KUEHAAOMU.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+
 }
 h1{
   font-size:5.625rem;
